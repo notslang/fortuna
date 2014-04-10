@@ -1,0 +1,16 @@
+{
+  "name": "fortuna",
+  "repo": "slang800/fortuna",
+  "description": "a strong pseudo-random number generator",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "slang800/sha256": "*",
+    "slang800/aes": "*"
+  },
+  "development": {},
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
